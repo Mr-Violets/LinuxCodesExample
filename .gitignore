@@ -5,6 +5,9 @@
 *.user
 *.userosscache
 *.sln.docstates
+# 忽略 Visual Studio 生成的临时文件和目录
+.vs/
+*.ipch
 
 # Build results
 [Dd]ebug/

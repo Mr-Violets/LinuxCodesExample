@@ -8,6 +8,9 @@
 # 忽略 Visual Studio 生成的临时文件和目录
 .vs/
 *.ipch
+CMakeOpenCV01/.vs/
+CMakeProject01/.vs/
+
 
 # Build results
 [Dd]ebug/

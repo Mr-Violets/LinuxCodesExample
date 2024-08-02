@@ -1,0 +1,112 @@
+# 对于Visual Studio项目
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/static/
+
+# Uncomment if you have a deployment-specific wwwroot directory
+#wwwroot/deploy/
+
+# Crash reports
+*.dmp
+
+# Stores
+*.pdb
+*.mdb
+*.opendb
+
+# Coverage
+*.coverage
+*.coveragexml
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# Chutzpah Test files
+_Chutzpah/
+
+# Visual Studio 2019
+.vs/         # 文件夹忽略整个目录
+
+# Mono auto generated files
+mono_crash.*
+
+# 对于Linux项目
+# Compiled Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+*.def
+*.exp
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Kernel Module Compile Results
+*.mod*
+
+# Temporary files
+*.swp
+*~
+
+# Directories
+.idea/
+.vscode/
+
+# 对于CMake项目
+# Build directories
+/CMakeFiles
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# Project files
+build/
+out/
+
+# CodeBlocks
+*.cbp
+
+# JetBrains
+.idea/

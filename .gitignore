@@ -10,6 +10,9 @@
 *.ipch
 CMakeOpenCV01/.vs/
 CMakeProject01/.vs/
+LinuxTest01/.vs/
+CMakeVSCodeTest01/.vscode/
+CMakeVSCodeTest01/.vscode/
 
 
 # Build results
